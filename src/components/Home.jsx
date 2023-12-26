@@ -54,7 +54,7 @@ const Home = () => {
         <div>
           <h1>Brands</h1>
 
-          <article>
+          <article className="logoarticle">
             <div
               style={{
                 animationDelay: "0.3s",
